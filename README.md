@@ -1,4 +1,4 @@
-Video da Apresentaçã do Projeto: (https://drive.google.com/file/d/1XgLkKhSAFc77XJO_CKNYgHpZ9UgszdKL/view?usp=sharing)
+Video da Apresentação do Projeto: https://drive.google.com/file/d/1XgLkKhSAFc77XJO_CKNYgHpZ9UgszdKL/view?usp=sharing
 
 # Jogo da Forca em Assembly 🎮
 
